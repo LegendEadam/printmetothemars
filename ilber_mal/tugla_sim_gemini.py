@@ -117,4 +117,4 @@ else:
     c_iron = st.sidebar.slider("Regolith Iron Oxide Ratio (%)", 0.0, 100.0, 15.0, 0.5)
     c_perchlorate = st.sidebar.slider("Soil Perchlorate Ratio (%)", 0.0, 100.0, 0.5, 0.1)
     c_oxygen = st.sidebar.slider("Atmospheric Oxygen Ratio (%)", 0.0, 100.0, 0.5, 0.1)
-    c_solar = st.sidebar.slider("Solar Irradiance (W/m²)", 0.0, 10000
+    c_solar = st.sidebar.slider("Solar Irradiance (W/m²)", 0.0, 10000)
